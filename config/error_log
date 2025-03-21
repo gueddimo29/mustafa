@@ -1,0 +1,152 @@
+[22-May-2024 02:41:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/database.php on line 18
+[30-Jan-2025 01:05:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/cache.php on line 18
+[30-Jan-2025 01:09:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/app.php on line 16
+[30-Jan-2025 01:26:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/database.php on line 18
+[30-Jan-2025 01:29:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/services.php on line 18
+[30-Jan-2025 01:30:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/session.php on line 21
+[30-Jan-2025 01:30:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home1/hmtoursc/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/view.php on line 17
+[30-Jan-2025 01:30:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/queue.php on line 16
+[30-Jan-2025 01:30:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/broadcasting.php on line 18
+[30-Jan-2025 01:30:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/logging.php on line 20
+[30-Jan-2025 01:33:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/cache.php on line 18
+[30-Jan-2025 01:37:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/app.php on line 16
+[30-Jan-2025 01:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/database.php on line 18
+[30-Jan-2025 01:56:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/services.php on line 18
+[30-Jan-2025 01:57:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/session.php on line 21
+[30-Jan-2025 01:57:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home1/hmtoursc/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/view.php on line 17
+[30-Jan-2025 01:57:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/queue.php on line 16
+[30-Jan-2025 01:57:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/broadcasting.php on line 18
+[30-Jan-2025 01:57:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/logging.php on line 20
+[30-Jan-2025 06:07:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/cache.php on line 18
+[30-Jan-2025 06:14:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/app.php on line 16
+[30-Jan-2025 06:39:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/services.php on line 18
+[30-Jan-2025 06:40:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/session.php on line 21
+[30-Jan-2025 06:40:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home1/hmtoursc/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/view.php on line 17
+[30-Jan-2025 06:40:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/queue.php on line 16
+[30-Jan-2025 06:40:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/broadcasting.php on line 18
+[30-Jan-2025 06:40:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/logging.php on line 20
+[30-Jan-2025 06:43:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/cache.php on line 18
+[30-Jan-2025 06:48:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/app.php on line 16
+[30-Jan-2025 07:06:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/database.php on line 18
+[30-Jan-2025 07:09:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/services.php on line 18
+[30-Jan-2025 07:09:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/session.php on line 21
+[30-Jan-2025 07:09:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home1/hmtoursc/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/view.php on line 17
+[30-Jan-2025 07:09:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/queue.php on line 16
+[30-Jan-2025 07:09:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/broadcasting.php on line 18
+[30-Jan-2025 07:09:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/logging.php on line 20
+[13-Feb-2025 08:20:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/services.php on line 18
+[04-Mar-2025 07:28:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/hmtoursc/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/hmtoursc/public_html/config/cache.php on line 18
